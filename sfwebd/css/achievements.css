@@ -1,0 +1,35 @@
+.m1{
+  padding: 10px;
+  text-decoration: none;
+  outline: solid;
+  margin: 10px;
+  color: white
+}
+.m1:hover{
+  color: green;
+}
+.d1{  text-align: right;
+  width: 100%;
+  height: 50px;
+  margin-right:  20px;
+}
+.menu{background-color: rgba(0, 0, 0.5, 0.5);}
+body{
+background-image: url(https://img.freepik.com/free-photo/cup-man-achievement-success-honor_1150-1719.jpg?size=626&ext=jpg);
+background-repeat: no-repeat;
+background-size: cover;
+margin: 0;
+}
+.un{height: 200px;}
+.UNO{margin-top: 30px;
+margin-left: 30px;
+text-align: center;}
+h1{   font-family: 'Dancing Script', cursive;
+   font-size: 50px;}
+.foot{   background-color: rgba(0, 0, 0.5, 0.5);
+  margin-top: 30px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   color: white;}
+.pr{  font-family: 'Lexend Giga', sans-serif;
+  color: white;}
